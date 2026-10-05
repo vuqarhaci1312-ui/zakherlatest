@@ -1,0 +1,16 @@
+node_modules/
+frontend/node_modules/
+frontend/.env.local
+.env
+.env.local
+*.log
+.DS_Thumbs.db
+
+# Local scrape / sync helpers (not needed to deploy)
+tools/zakher-src*
+tools/zakher-content*.json
+tools/zakher-data.js
+
+# Production build output (Vercel runs `npm run build` in frontend/)
+public_html/assets/
+public_html/index.html

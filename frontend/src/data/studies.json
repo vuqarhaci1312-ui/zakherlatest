@@ -1,0 +1,771 @@
+[
+  {
+    "slug": "/fahlo",
+    "title": "Fahlo™",
+    "years": "2025 - 2026",
+    "platforms": "iOS, Android and web",
+    "blurb": "Fahlo partners with nonprofits to protect the world’s most at risk species through interactive tracking maps linked to bracelets, plushies, and trading cards.",
+    "sections": [
+      {
+        "type": "overview",
+        "label": "Overview",
+        "body": "With over 6 million users but plateauing engagement, I led the design of four retention-focused features (with more to ship soon) to reconnect them with their real-world impact and rebuild purchase momentum."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/fahlo/overview.jpg"
+        },
+        "aspect": 2.043435340572557,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Biomes",
+        "body": "Fahlo tracks 30 at-risk animals in the wild. Tracking this many created confusion, and users couldn't distinguish species. One colour per animal would overwhelm and become unscalable, so they were grouped by biome: savanna, jungle, tundra, ocean. Each biome received a branded treatment with bespoke mandalas and a cohesive colour scheme, adding visual depth while keeping the system manageable. This reduced confusion and reinforced immersion."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/fahlo/biomes-1.mp4"
+            },
+            {
+              "src": "/case/fahlo/biomes-2.jpg"
+            },
+            {
+              "src": "/case/fahlo/biomes-3.jpg"
+            },
+            {
+              "src": "/case/fahlo/biomes-4.jpg"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "deep-dive",
+        "title": "Impact",
+        "body": "Users felt disconnected from the real-world impact of their purchases (core to Fahlo's mission). I designed a gamified scoring system combining live visual and haptic feedback to create satisfying moments of progress. An impact hub surfaced their cumulative conservation contribution, while 80+ custom progressive badges (embroidery-styled for brand cohesion) kept engagement high. Users reconnected with their original motivation: actually helping endangered animals."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/fahlo/impact-1.mp4"
+            },
+            {
+              "src": "/case/fahlo/impact-2.jpg"
+            },
+            {
+              "src": "/case/fahlo/impact-3.jpg"
+            },
+            {
+              "src": "/case/fahlo/impact-4.jpg"
+            }
+          ],
+          [
+            {
+              "src": "/case/fahlo/impact-hub-1.mp4"
+            },
+            {
+              "demo": "impact-1up"
+            },
+            {
+              "src": "/case/fahlo/impact-hub-3.mp4"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/fahlo/impact-badges-concept.jpg"
+        },
+        "caption": "Early badge concepts explored natural biome themed gems and textures"
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/fahlo/impact-badges-collection.jpg"
+        },
+        "caption": "80+ illustrative badges in a unique embroidery style"
+      },
+      {
+        "type": "deep-dive",
+        "title": "Collectable cards",
+        "body": "Trading cards tapped into nostalgia to improve unboxing. I designed both the physical cards and in-app experience with bespoke biome elements and rarity tiers (core, rare, legendary). The card's visual language extended into the app itself, creating continuity between physical and digital to form an anticipated collectible moment that drove repeat unboxing and social sharing."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/fahlo/cards-1.mp4"
+            },
+            {
+              "src": "/case/fahlo/cards-2.mp4"
+            },
+            {
+              "src": "/case/fahlo/cards-3.jpg"
+            },
+            {
+              "src": "/case/fahlo/cards-4.jpg"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/fahlo/cards-holographic.mp4"
+        },
+        "caption": "Custom holographic pawprints on legendary cards was a nice touch"
+      },
+      {
+        "type": "deep-dive",
+        "title": "Drops",
+        "body": "Users bought their favourite animals once and stopped repeat purchasing. Drops were introduced to create urgency and drive repeat visits. I designed the drop experience (countdown timers, limited release framing) and built a reusable asset framework that let the team launch drops with minimal unique design per cycle to make exclusivity scalable without dev overhead."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/fahlo/drops-1.jpg"
+            },
+            {
+              "src": "/case/fahlo/drops-2.jpg"
+            },
+            {
+              "src": "/case/fahlo/drops-3.jpg"
+            },
+            {
+              "src": "/case/fahlo/drops-4.jpg"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "/matter",
+    "title": "Matter",
+    "years": "2024",
+    "platforms": "iOS and web",
+    "blurb": "Built on Dr. Axel Bouchon's frontline biomarker research, Matter tracks your mental wellbeing via your daily ‘Matter Score’ to help improve neuroplasticity and longevity.",
+    "sections": [
+      {
+        "type": "overview",
+        "label": "Overview",
+        "body": "I redesigned the onboarding and daily experience of the Matter app to demystify neuroscience, translating complex research into intuitive, habit-forming interactions."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/matter/overview.jpg"
+        },
+        "aspect": 2.043435340572557,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Onboarding",
+        "body": "The first touchpoint in-app needed to establish brand, educate users, and prevent drop-off. After testing copy and video duration, I paired a skippable animated pre-roll (with bespoke animation in Cinema4D) with an educational carousel to ensure users got essential information either way."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/matter/onboarding-1.mp4"
+            },
+            {
+              "src": "/case/matter/onboarding-2.jpg"
+            },
+            {
+              "src": "/case/matter/onboarding-3.jpg"
+            },
+            {
+              "src": "/case/matter/onboarding-4.jpg"
+            }
+          ],
+          [
+            {
+              "src": "/case/matter/onboarding-5.jpg"
+            },
+            {
+              "src": "/case/matter/onboarding-6.jpg"
+            },
+            {
+              "src": "/case/matter/onboarding-7.jpg"
+            },
+            {
+              "src": "/case/matter/onboarding-8.mp4"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "deep-dive",
+        "title": "Adding a memory",
+        "body": "Adding memories in our MVP had inconsistent UX, with disparate input methods making it slow and frustrating. I streamlined the experience with a flatter hierarchy, consistent visual language (Apple materials, lists, sheets), reducing taps and keeping users in flow. Bespoke pre-alert screens also reduced permission rejections."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/matter/memory-1.jpg"
+            },
+            {
+              "src": "/case/matter/memory-2.jpg"
+            },
+            {
+              "src": "/case/matter/memory-3.jpg"
+            },
+            {
+              "src": "/case/matter/memory-4.jpg"
+            }
+          ],
+          [
+            {
+              "src": "/case/matter/memory-5.jpg"
+            },
+            {
+              "src": "/case/matter/memory-6.jpg"
+            },
+            {
+              "src": "/case/matter/memory-7.jpg"
+            },
+            {
+              "src": "/case/matter/memory-8.jpg"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "deep-dive",
+        "title": "Action cards",
+        "body": "I designed two complementary elements on the home screen: pill-shaped action cards suggesting emotion-focused interventions, and a ring interaction to visualise total Matter Score and gaps in neurotransmitter activity at a glance. We shipped the pills first to validate the core concept, keeping the ring for a future release. I collaborated with a copywriter to reframe suggestions positively (‘Boost your [NT]’ instead of ‘Low [NT]’) and offer lifestyle-specific actions, making neuroscience feel actionable rather than abstract."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/matter/actions-1.jpg"
+            },
+            {
+              "src": "/case/matter/actions-2.jpg"
+            },
+            {
+              "src": "/case/matter/actions-3.jpg"
+            },
+            {
+              "src": "/case/matter/actions-4.mp4"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "deep-dive",
+        "title": "Beta landing page",
+        "body": "For the TestFlight launch campaign, I designed a long-scroll 3D animation revealing our value proposition. Collaborating with developer Henry Desroches, we built it in Three.js with recycled OBJ models from the design system for efficiency and iteration speed. The landing page became a core part of our beta campaign."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/matter/landing-1.jpg"
+        }
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/matter/landing-2.mp4"
+        },
+        "caption": "Dynamic storytelling through scrolling, with key visual links to the mobile experience",
+        "aspect": 1.477832512315271
+      },
+      {
+        "type": "deep-dive",
+        "title": "Design system",
+        "body": "Early development relied on a barebones component library. I built ‘Cortex’; a comprehensive design system with atomic components, integrated design tokens, brand guidelines, and animation principles. I also repackaged our icon library as SFSymbol packages for consistency and versatility across SwiftUI, reducing deployment friction."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/matter/system-icons.jpg"
+        },
+        "caption": "Custom iconography, complete with stylised ink traps to match our typeface",
+        "aspect": 2.564894932014833
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/matter/system-tokens.mp4"
+        },
+        "caption": "Primitive and Semantic tokens for easy deployment and one click light mode"
+      }
+    ]
+  },
+  {
+    "slug": "/contact",
+    "title": "Contact",
+    "years": "2022",
+    "platforms": "iOS, Android and web",
+    "blurb": "Contact Creatives simplifies creative hiring by consolidating booking, project management, and fast payments into one platform.",
+    "sections": [
+      {
+        "type": "overview",
+        "label": "Overview",
+        "body": "I redesigned Contact’s platform and brand from the ground up, shipping a scalable web and mobile experience for creatives and bookers, along with an early payment feature that set us apart in the market."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/contact/overview.jpg"
+        },
+        "aspect": 2.043435340572557,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Rebrand",
+        "body": "As our product strategy shifted, our brand identity no longer fit. I redesigned the visual language: refined typography and hierarchy for clarity, created a custom icon set and colour palette that complemented, rather than competed with, creator work, and redesigned the logo to better communicate our core message of connection."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/contact/logo-old-new.jpg"
+        },
+        "aspect": 2.029891304347826
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/contact/logo-explorations.jpg"
+        },
+        "aspect": 2.029891304347826
+      },
+      {
+        "type": "figure",
+        "media": {
+          "before": "/case/contact/site-before.jpg",
+          "after": "/case/contact/site-after.jpg"
+        },
+        "aspect": 1.7037037037037037,
+        "wide": true
+      },
+      {
+        "type": "figure",
+        "media": {
+          "before": "/case/contact/signup-before.jpg",
+          "after": "/case/contact/signup-after.jpg"
+        },
+        "aspect": 1.454673225579761,
+        "wide": true
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/contact/icons.jpg"
+        },
+        "aspect": 2.029891304347826
+      },
+      {
+        "type": "deep-dive",
+        "title": "Creating a job",
+        "body": "Testing and interviews revealed our flow was too long. Users rarely had all the requisite information to plan a job in one session. I separated job creation into two steps: a ‘basket’ for shortlisting (mirroring e-commerce), and a streamlined job details form. Progress indicators and autosave let users revisit without losing work."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "before": "/case/contact/shortlist-before.jpg",
+          "after": "/case/contact/shortlist-after.jpg"
+        },
+        "aspect": 1.454673225579761,
+        "wide": true
+      },
+      {
+        "type": "figure",
+        "media": {
+          "before": "/case/contact/job-details-before.jpg",
+          "after": "/case/contact/job-details-after.jpg"
+        },
+        "aspect": 1.4870689655172413,
+        "wide": true
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/contact/calendar.jpg"
+        },
+        "aspect": 1.6996587030716723
+      },
+      {
+        "type": "deep-dive",
+        "title": "Creative’s app",
+        "body": "Freelance creatives juggled multiple apps to manage work, profile, and payments. I designed a minimal iOS and Android experience consolidating everything into one place — letting creatives respond to opportunities faster and manage their business without app-switching."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/contact/app.jpg"
+        },
+        "aspect": 2.029891304347826
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/contact/app-2.mp4"
+        },
+        "aspect": 1.7777777777777777
+      }
+    ]
+  },
+  {
+    "slug": "/webex",
+    "title": "Webex for iPad",
+    "years": "2021",
+    "platforms": "iPad",
+    "blurb": "Webex by Cisco is the enterprise standard for real-time collaboration, serving millions of users globally.",
+    "sections": [
+      {
+        "type": "overview",
+        "label": "Overview",
+        "body": "Cisco’s suite of collaboration tools had become fragmented across apps, overwhelming users. In 8 weeks, I helped consolidate the core experience for iPadOS, working with in-house teams to ship a unified, ship-ready product that became WebEx’s flagship iPad app."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/overview.jpg"
+        },
+        "aspect": 2.043435340572557,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Native experience",
+        "body": "WebEx needed to be powerful without overwhelming users. I used a three-panel split view instead of multi-level hierarchy to keep the interface clean while supporting native multitasking. The fully customisable sidebar let power users personalise their experience. Every decision went through rigorous accessibility testing (WCAG AAA, semantic tokens, generous tap areas), and I established animation guidelines to maintain an Apple native feel throughout."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/native-1.mp4",
+          "poster": "/case/webex/native-1-poster.jpg",
+          "hover": true,
+          "label": "Before and after - Native Experience"
+        },
+        "aspect": 1.3513513513513513,
+        "wide": true
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/sidebar.mp4",
+          "poster": "/case/webex/sidebar-poster.jpg",
+          "hover": true,
+          "label": "Sidebar customisation"
+        },
+        "aspect": 1.4311270125223614,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Advanced search",
+        "body": "Searching a complex workspace with messages, spaces, people, and files needed to be fast. I implemented elastic search as well as keyboard shortcuts and tags for power users. Transitions between content types guided the user’s eye through those results, keeping the interface navigable."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/search.jpg"
+        },
+        "aspect": 2.029891304347826
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/search-spaces.mp4",
+          "poster": "/case/webex/search-spaces-poster.jpg",
+          "hover": true,
+          "label": "Advanced Search: Spaces"
+        },
+        "aspect": 1.4314814814814816,
+        "wide": true
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/search-messages.mp4",
+          "poster": "/case/webex/search-messages-poster.jpg",
+          "hover": true,
+          "label": "Advanced Search: Messages"
+        },
+        "aspect": 1.4314814814814816,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Prototyping",
+        "body": "In a rapidly iterating product, static specs weren’t enough. I built interactive prototypes in Figma, Principle and After Effects for macro and micro interactions, ensuring developers understood intent without guessing. Nested components let me swap designs quickly on feedback rounds, keeping prototypes in sync without rebuilding."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/prototypes-1.mp4"
+        },
+        "aspect": 1.7429193899782136
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/multitasking.mp4",
+          "poster": "/case/webex/multitasking-poster.jpg",
+          "hover": true,
+          "label": "Multitasking and Picture-In-Picture"
+        },
+        "aspect": 1.4311270125223614,
+        "wide": true
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/webex/in-meeting.mp4",
+          "poster": "/case/webex/in-meeting-poster.jpg",
+          "hover": true,
+          "label": "In-Meeting and Arrangement"
+        },
+        "aspect": 1.4311270125223614,
+        "wide": true
+      }
+    ]
+  },
+  {
+    "slug": "/sakara",
+    "title": "Sakara",
+    "years": "2021",
+    "platforms": "iOS and Android",
+    "blurb": "Sakara Life delivers high-end, organic, plant-based meals and wellness products to health-conscious consumers.",
+    "sections": [
+      {
+        "type": "overview",
+        "label": "Overview",
+        "body": "I designed Sakara’s iOS app to simplify the complexity of subscription meals, rewards, and wellness shopping to create an end-to-end experience that matched their premium, plant-based brand."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/sakara/overview.jpg"
+        },
+        "aspect": 2.043435340572557,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Dynamic Calendar",
+        "body": "The calendar needed to be both context and navigation without overwhelming the content. I designed a sticky component with a 7-day dynamic preview that reflected content below, and added a visual key for deliveries/skipped days (scannable at a glance). A dropdown expanded to full month view for power users planning ahead, while casual planners stayed in the 7-day view."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/sakara/calendar-1.png",
+              "bare": true
+            },
+            {
+              "src": "/case/sakara/calendar-2.png",
+              "bare": true
+            },
+            {
+              "src": "/case/sakara/calendar-3.png",
+              "bare": true
+            },
+            {
+              "src": "/case/sakara/calendar-4.png",
+              "bare": true
+            }
+          ],
+          [
+            {
+              "src": "/case/sakara/calendar-5.mp4"
+            },
+            {
+              "src": "/case/sakara/calendar-6.mp4"
+            },
+            {
+              "src": "/case/sakara/calendar-7.mp4"
+            },
+            {
+              "src": "/case/sakara/calendar-8.mp4"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "deep-dive",
+        "title": "Shop Sakara",
+        "body": "Sakara’s audience prioritise value over price. I replaced conventional price sorting with function-based filtering as a unique differentiator. Since product quality was assumed, I leaned into social proof as the conversion lever, making ratings and reviews primary in the product view. The checkout flow stayed stripped-back to align with the brand and reduce friction at the critical moment."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/sakara/shop-1.jpg"
+            },
+            {
+              "src": "/case/sakara/shop-2.jpg"
+            },
+            {
+              "src": "/case/sakara/shop-3.jpg"
+            },
+            {
+              "src": "/case/sakara/shop-4.jpg"
+            }
+          ],
+          [
+            {
+              "src": "/case/sakara/shop-5.jpg"
+            },
+            {
+              "src": "/case/sakara/shop-6.jpg"
+            },
+            {
+              "src": "/case/sakara/shop-7.jpg"
+            },
+            {
+              "src": "/case/sakara/shop-8.jpg"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "deep-dive",
+        "title": "Rewards",
+        "body": "Users weren’t engaging with rewards. Treated as an afterthought, they didn’t see the value. I prioritised a progress indicator for motivation, ordered rewards by immediacy, and used visual hierarchy (muted palette + bold CTA) to focus action, increasing time-in-app and redemptions."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/sakara/rewards-1.jpg"
+            },
+            {
+              "src": "/case/sakara/rewards-2.jpg"
+            },
+            {
+              "src": "/case/sakara/rewards-3.jpg"
+            },
+            {
+              "src": "/case/sakara/rewards-4.jpg"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "/immi",
+    "title": "Immi",
+    "years": "2021",
+    "platforms": "iOS and web",
+    "blurb": "Comprised of veteran tech leaders and studio animators, AMGI lives at the intersection of gaming, technology, and storytelling.",
+    "sections": [
+      {
+        "type": "overview",
+        "label": "Overview",
+        "body": "I established Immi’s brand and UI to reflect the studio’s creative DNA while making their complex AR technology feel inviting and playful for everyday users."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/immi/overview.jpg"
+        },
+        "aspect": 2.043435340572557,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Visual language",
+        "body": "Immi’s brand needed clarity so their cinema-quality character work could be the hero. I created a simple two-tone palette and clean sans-serif that enhanced contrast and accessibility without competing for attention. I also redesigned the logomark and icon set to reinforce that playful, accessible tone."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/immi/visual-1.jpg"
+            },
+            {
+              "src": "/case/immi/visual-2.jpg"
+            },
+            {
+              "src": "/case/immi/visual-3.jpg"
+            },
+            {
+              "src": "/case/immi/visual-4.jpg"
+            }
+          ]
+        ]
+      },
+      {
+        "type": "deep-dive",
+        "title": "Interaction design",
+        "body": "The app’s limited brand touchpoints meant each interaction had to count. I invested in animating the most common action (character switching) with physics-based motion that added depth to the 3D environment. Exporting as Lottie JSON made the animation scalable across iOS and iPad without developer overhead."
+      },
+      {
+        "type": "figure",
+        "media": {
+          "src": "/case/immi/interaction.mp4",
+          "poster": "/case/immi/interaction-poster.jpg",
+          "hover": true,
+          "label": "Character transition"
+        },
+        "aspect": 1.7777777777777777,
+        "wide": true
+      },
+      {
+        "type": "deep-dive",
+        "title": "Editing video",
+        "body": "Clip editing needed to be frictionless — complexity would kill user engagement. I designed a minimal editor focused on trimming and reordering, removing anything that would interrupt creative flow. I also implemented background pre-rendering to eliminate wait time on export."
+      },
+      {
+        "type": "phones",
+        "rows": [
+          [
+            {
+              "src": "/case/immi/editing-1.jpg"
+            },
+            {
+              "src": "/case/immi/editing-2.jpg"
+            },
+            {
+              "src": "/case/immi/editing-3.jpg"
+            },
+            {
+              "src": "/case/immi/editing-4.jpg"
+            }
+          ],
+          [
+            {
+              "src": "/case/immi/editing-5.jpg"
+            },
+            {
+              "src": "/case/immi/editing-6.jpg"
+            },
+            {
+              "src": "/case/immi/editing-7.jpg"
+            },
+            {
+              "src": "/case/immi/editing-8.jpg"
+            }
+          ]
+        ]
+      }
+    ]
+  }
+]
