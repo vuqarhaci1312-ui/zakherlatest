@@ -1,0 +1,8 @@
+{
+  "name": "zakherlatest",
+  "private": true,
+  "scripts": {
+    "build": "npm run build --prefix frontend",
+    "postinstall": "npm install --prefix frontend"
+  }
+}

@@ -49,6 +49,13 @@ Check only:
 node ..\tools\sync-assets.mjs --check
 ```
 
+## Vercel deploy
+
+1. Import [zakherlatest](https://github.com/vuqarhaci1312-ui/zakherlatest) on Vercel.
+2. **Root Directory** must stay empty (repository root — not `public_html` or `frontend`).
+3. Build uses root `package.json` → `frontend` Vite build → output `public_html/`.
+4. Deploy.
+
 ## Hestia deploy
 
 1. Run `npm run build` in `frontend/`.
